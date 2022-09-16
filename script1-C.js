@@ -20,6 +20,13 @@ function mySubmit(){
         case "2":
         myURL = "1c-b.mp4"
         break;
+
+        case "2'":
+            myURL = "A4-B1.mp4"
+            alert("体育館、資料室は１階B階段（黄色）カテゴリーの正面玄関を左に進むと到着します。\n okボタンをクリックし、マップから目的地をご確認ください。");
+        break;
+
+    
     
         case "3":
             myURL = "1Fmap.jpg"
